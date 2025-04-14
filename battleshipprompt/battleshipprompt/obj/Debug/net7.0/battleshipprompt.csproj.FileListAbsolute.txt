@@ -1,0 +1,15 @@
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\bin\Debug\net7.0\battleshipprompt.exe
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\bin\Debug\net7.0\battleshipprompt.deps.json
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\bin\Debug\net7.0\battleshipprompt.runtimeconfig.json
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\bin\Debug\net7.0\battleshipprompt.dll
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\bin\Debug\net7.0\battleshipprompt.pdb
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.csproj.AssemblyReference.cache
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.AssemblyInfo.cs
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.dll
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\refint\battleshipprompt.dll
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.pdb
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\battleshipprompt.genruntimeconfig.cache
+C:\Users\Samuel\source\repos\Session16\ClassExcercises\battleshipprompt\battleshipprompt\obj\Debug\net7.0\ref\battleshipprompt.dll
